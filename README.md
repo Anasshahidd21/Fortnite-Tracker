@@ -22,3 +22,5 @@
 
 
   ` A pre-req of this app is to have node and npm installed on to your computer`
+
+<h2>Read more about this program on the <a href="https://github.com/Anasshahidd21/Fortnite-Tracker/wiki"> Wiki </a> </h2>
